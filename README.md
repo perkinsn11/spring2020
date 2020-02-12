@@ -1,5 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biof509/spring2020/master?urlpath=lab)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/biof509/spring2020/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/perkinsn11/spring2020/master?urlpath=lab)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/perkinsn11/spring2020/)
 
 # BIOF 509 Spring 2020
 
